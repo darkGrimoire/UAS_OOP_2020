@@ -5,7 +5,7 @@ Design Pattern used: Publisher-Subscriber & Decorator
 ![testcase](simulation.gif)
 
 cara compile plugin:  
-javac -d plugins KolamRenang.java Sarapan.java Fasilitas.java Properti.java  
+`javac -d plugins KolamRenang.java Sarapan.java Fasilitas.java Properti.java`  
 
 cara jalanin program:  
-compile semuanya dengan javac `javac *.java` lalu lakukan `java Main`.
+compile semuanya dengan `javac *.java` lalu lakukan `java Main`.
