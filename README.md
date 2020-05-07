@@ -8,4 +8,5 @@ cara compile plugin:
 `javac -d plugins KolamRenang.java Sarapan.java Fasilitas.java Properti.java`  
 
 cara jalanin program:  
-compile semuanya dengan `javac *.java` lalu lakukan `java Main`.
+compile semuanya dengan `javac *.java` lalu lakukan `java Main`.  
+atau kalau mau mudah bisa juga pake VSCode langsung run
